@@ -1,0 +1,50 @@
+body {
+	font-family: "Gotham Pro"sans-serif;
+	max-width: 1560px;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.header {
+	background-color: #f0ebe8;
+	min-width: 1560px;
+	margin: auto;
+}
+
+.header-box {
+
+}
+
+.logo-box {
+	
+}
+
+.header-title {
+	
+}
+
+
+.main {
+	background-color: #e1e6cf;
+}
+
+.footer {
+	background-color: #f0ebe8;
+}
+
+/*
+нав меню
+width: 1560px;
+height: 21px;
+font-size: 16px;
+letter-spacing: -1px;
+line-height: 24px;
+color: #d4416a;
+font-family: "Gotham Pro";
+text-align: center;*/
